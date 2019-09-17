@@ -17,3 +17,7 @@ Since students haven't yet learned about saving data or the Android lifecycle, i
 5. Share menu (implicit intent)
 6. Navigation Drawer (MainActivity)
 7. Animations (slide in / out - fade in / out)
+
+## Useful links
+https://codelabs.developers.google.com/codelabs/android-navigation/index.html?index=..%2F..index#0
+https://developer.android.com/guide/navigation/navigation-ui
